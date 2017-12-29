@@ -1,3 +1,5 @@
+This project will use the Spotify API to manipulate playlists. Completed by following the DevTips React series featuring MPJ and Data David.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
