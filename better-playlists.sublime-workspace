@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"numAnimals"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 1417,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Mia/Documents/Dev Projects/DevTips React with MPJ/codetemp/better-playlists",
+		"/C/Users/Mia/Documents/Dev Projects/DevTips React with MPJ/codetemp/better-playlists/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Mia/Documents/Dev Projects/DevTips React with MPJ/codetemp/better-playlists/README.md",
+		"/C/Users/Mia/Documents/Git/GitHub/BetterPlaylists/better-playlists/README.md",
+		"/C/Users/Mia/Documents/Dev Projects/DevTips React with MPJ/codetemp/better-playlists/src/App.js",
+		"/C/Users/Mia/Documents/Dev Projects/DevTips React with MPJ/codetemp/better-playlists/src/index.css",
+		"/C/Users/Mia/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Mia/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Mia/AppData/Roaming/Sublime Text 3/Packages/SublimeMagick/SublimeMagick.sublime-settings",
+		"/C/Users/Mia/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Mia/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Mia/Documents/Dev Projects/DevTips React with MPJ/codetemp/better-playlists/node_modules/postcss-selector-parser/dist/index.js",
+		"/C/Users/Mia/Documents/Vuze Downloads/Lynda. JavaScript for Web Designers/Ex_Files_JS_for_WD/Ex_Files_JS_for_WD/Exercise Files/0402/start/index.html",
+		"/C/Users/Mia/Documents/Dev Projects/Underscore.js",
+		"/C/Users/Mia/Documents/Git/JS30/06 - Type Ahead/index-START.html",
+		"/C/Users/Mia/Documents/Git/Net Ninja/REST API Tutorials/.git/index",
+		"/C/Users/Mia/Documents/Git/JS30/01 - JavaScript Drum Kit/style.css",
+		"/C/Users/Mia/Documents/Git/JS30/01 - JavaScript Drum Kit/index-START.html",
+		"/C/Users/Mia/Documents/Dev Projects/Sandbox/imageTest.html",
+		"/C/Users/Mia/Documents/Illustrator Scripts/Round Any Corner.js",
+		"/C/Users/Mia/exercism/javascript/leap/README.md",
+		"/C/Users/Mia/exercism/javascript/leap/leap.spec.js",
+		"/C/Users/Mia/exercism/javascript/leap/leap.js",
+		"/C/Users/Mia/exercism/javascript/leap/HINT.md",
+		"/C/Users/Mia/exercism/javascript/hello-world/README.md",
+		"/C/Users/Mia/exercism/javascript/hello-world/hello-world.js",
+		"/C/Users/Mia/exercism/javascript/hello-world/hello-world.spec.js",
+		"/C/Users/Mia/Documents/U of Penn WebDev/Homework 1/calendar.html",
+		"/C/Users/Mia/Documents/U of Penn WebDev/Homework 1/calendar.css",
+		"/C/Users/Mia/Documents/Vuze Downloads/Lynda. JavaScript for Web Designers/Ex_Files_JS_for_WD/Ex_Files_JS_for_WD/Exercise Files/twotrees/shop.html",
+		"/C/Users/Mia/Documents/Vuze Downloads/Lynda. JavaScript for Web Designers/Ex_Files_JS_for_WD/Ex_Files_JS_for_WD/Exercise Files/scratchpad.html",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-5/app.js",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-5/index.html",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-4/styles.css",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-4/app.js",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-4/index.html",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-3/index.html",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-3/app.js",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-3/styles.css",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-2/styles.css",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-2/app.js",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-2/index.html",
+		"/C/Users/Mia/Documents/The Net Ninja/JS DOM Tutorial/JavaScript-DOM-Tutorial-lesson-2/README.md",
+		"/C/Users/Mia/Downloads/JS DOM Tutorial Files/JavaScript-DOM-Tutorial-master/.DS_Store",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson18/Work/Lesson18.html",
+		"/C/Users/Mia/Downloads/GoodDog-fontfacekit/web fonts/gooddog_regular_macroman/stylesheet.css",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson17/Work/styles.css",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson17/Work/Lesson17.html",
+		"/C/Users/Mia/Downloads/GoodDog-fontfacekit/web fonts/gooddog_regular_macroman/GoodDog-demo.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson08/Work/Lesson08.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson08/Work/styles.css",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson14/Lesson14.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson12/Work/styles.css",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson12/Work/Lesson12.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson11/Work/Lesson11.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson10/Work/Lesson10.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson09/Work/Lesson09.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson06/lesson06.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson05/Work/Lesson05.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson04/Before/Lesson03.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson03/Work/Lesson03.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson03/Work/styles.css",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson02/Work/Lesson02.html",
+		"/C/Users/Mia/Documents/C9HTMLCode/Lesson02/Work/Before.txt",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_20.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/script20.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/script20.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/script19.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_19.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/script19.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/script18.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_18.html",
+		"/C/Users/Mia/Documents/Dev Projects/Personal Study Prototype/css/main.css",
+		"/C/Users/Mia/Documents/Dev Projects/Personal Study Prototype/index.html",
+		"/C/Users/Mia/AppData/Roaming/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+		"/C/Users/Mia/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Mia/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Mia/Documents/Dev Projects/Bookmark App/CSS/style.css",
+		"/C/Users/Mia/Documents/Dev Projects/Bookmark App/index.html",
+		"/C/Users/Mia/Documents/Dev Projects/Bookmark App/JS/main.js",
+		"/C/Users/Mia/Documents/Dev Projects/Practice/fundamentals_Traversy.html",
+		"/C/Users/Mia/Documents/Dev Projects/Bookmark App/CSS/styles.css",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/C9JS_17.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_17.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_16.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/style16.css",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/script16.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/script16.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_15.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/style15.css",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/script15.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/style14.css",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/script14.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_14.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/script13.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_13.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_12.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/script12.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_11script.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_11.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_10.html",
+		"/C/Users/Mia/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/template.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/another.js",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_09.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_08.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_07.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_06.html",
+		"/C/Users/Mia/Documents/C9JS_Code/C9JS_Fundamentals/MyFiles/C9JS_05.html"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/SpaceCadet (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "better-playlists.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
